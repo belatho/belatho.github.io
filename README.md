@@ -1,3 +1,3 @@
-# Map of contents
+# Old man shouting at the sky
 
-## [The SNIPE project analysis framework](./Proj_Mgt/SNIPE_Intro.md)
+# Map of contents
