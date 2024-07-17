@@ -28,3 +28,8 @@ The main milestone will be described in this part. It documents the timeline and
 ### E for Execution
 
 This is where roles should be documented : who is doing what, and who is responsible for what.
+
+<footer>
+
+  This content is licensed under Creative Commons
+</footer>
