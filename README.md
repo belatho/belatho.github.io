@@ -1,1 +1,3 @@
-This is the entry page for the site.
+# Map of contents
+
+## The SNIPE project analysis framework
