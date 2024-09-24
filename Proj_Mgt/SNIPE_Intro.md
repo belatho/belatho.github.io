@@ -4,13 +4,14 @@
 
 - First of all, a project is meant to solve a problem. (Improving a situation is solving a problem = "How can I improve this situation?"). This means we will always have to perform some level of problem analysis.
 - As the saying goes : "If you have a problem, SNIPE it!" ;)
-- There are lots of frameworks, ranging from super light, but not really helpful, to extremely detailed, bringing structure in complex coordination of efforts, but also adding an excessive amount of administrative work. The purpose of this document is to stay as light as possible, but providing tools that will help to swiftly address some of the burdensome project management activities.
+- There are lots of frameworks, ranging from super light, but not really helpful, to extremely detailed, bringing structure in complex coordination of efforts, but also adding an excessive amount of administrative overhead. The purpose of this document is to stay as light as possible, but providing tools that will help to swiftly address some of the burdensome project management activities.
 
 ## The SNIPE framework
 
 ### S for Situation
 
 This is where you describe the situation in which you are. This means in particular to provide insights on the context in which you operate, and a description of the problem that needs to be tackled.
+The context will includes a reference to the constraints you are facing while dealing with this problem. They can be of various origin : administrative, political, legal, budgetary etc.
 
 ### N for Needs
 
@@ -23,11 +24,12 @@ For example, an intent could be "In order to be in this future situation, I inte
 
 ### P for Planning
 
-The main milestone will be described in this part. It documents the timeline and articulation of actions through time.
+The main milestones and deadlines will be described in this part. It documents the timeline and articulation of actions through time.
 
 ### E for Execution
 
 This is where roles should be documented : who is doing what, and who is responsible for what.
+The different roles should be described here, as should be the processes or workflows through which they will be coordinated.
 
 <footer>
 
