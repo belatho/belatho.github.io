@@ -4,6 +4,8 @@ In order to add an Apple iCloud calendar to Thunderbird, two things are needed :
 1. An App-specific password
 2. A CalDav URL allowing to access this specific calendar
 
+Examples below are "made-up" but are very similar to actual results. This is meant to help you identify the right elements of information.
+
 ## How to generate an App-specific password
 
 - Go to icloud.com
