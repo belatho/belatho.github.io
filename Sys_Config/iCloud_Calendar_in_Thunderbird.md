@@ -20,9 +20,9 @@ This will open a pop-up
 - A dialog box appears, that requires you to fill a name for this specific app. For example, you can use "<machine-name>-Thunderbird-calendar"
 It may then ask for your icloud password (not always)
 Then a new box appears with the following content : 
-"Your app-specific password is:
-dssu-zzkt-lkgf-xwde
-Enter this password into the password field of the app you would like to sign in to. Password is case-sensitive."
+```"Your app-specific password is:  
+dssu-zzkt-lkgf-xwde  
+Enter this password into the password field of the app you would like to sign in to. Password is case-sensitive."```
 - BEFORE CLICKING ON DONE, please copy-paste this password in your password manager, as it won't be displayed anymore to you on the dedicated Apple Account management page.
 You'll have to enter this password when configuring the calendar in Thunderbird
 
