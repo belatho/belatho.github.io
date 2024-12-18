@@ -6,24 +6,24 @@ In order to add an Apple iCloud calendar to Thunderbird, two things are needed :
 
 ## How to generate an App-specific password
 
-Go to icloud.com
-Sign-in with the account whose calendar is meant to be used with Thunderbird
-On the top-right angle of the webpage, click on the icon of the account.
+- Go to icloud.com
+- Sign-in with the account whose calendar is meant to be used with Thunderbird
+- On the top-right angle of the webpage, click on the icon of the account.
 A menu pops-up
-Select "Manage Apple Account"
+- Select "Manage Apple Account"
 This should open a new window, most likely after a new authentication has been asked from you (usually password and 2nd factor, but if you had already logged in not too long before, it may only be the second factor)
-In the new window, choose "Sign-in and Security" (left side of the webpage)
+- In the new window, choose "Sign-in and Security" (left side of the webpage)
 A new page is loaded
-At the bottom-right there is a box with "App-specific Passwords". Click on it.
+- At the bottom-right there is a box with "App-specific Passwords". Click on it.
 This will open a pop-up
-Click on "+"
-A dialog box appears, that requires you to fill a name for this specific app. For example, you can use "<machine-name>-Thunderbird-calendar"
+- Click on "+"
+- A dialog box appears, that requires you to fill a name for this specific app. For example, you can use "<machine-name>-Thunderbird-calendar"
 It may then ask for your icloud password (not always)
 Then a new box appears with the following content : 
 "Your app-specific password is:
 dssu-zzkt-lkgf-xwde
 Enter this password into the password field of the app you would like to sign in to. Password is case-sensitive."
-BEFORE CLICKING ON DONE, please copy-paste this password in your password manager, as it won't be displayed anymore to you on the dedicated Apple Account management page.
+- BEFORE CLICKING ON DONE, please copy-paste this password in your password manager, as it won't be displayed anymore to you on the dedicated Apple Account management page.
 You'll have to enter this password when configuring the calendar in Thunderbird
 
 ## How to identify the CalDav URL specific to your calendar
